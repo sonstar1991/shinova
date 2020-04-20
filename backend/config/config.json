@@ -2,7 +2,7 @@
   "development": {
     "username": "postgres",
     "password": "0330",
-    "database": "shinovaform",
+    "database": "abc",
     "host": "127.0.0.1",
     "dialect": "postgres",
     "operatorsAliases": false
